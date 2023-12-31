@@ -11,3 +11,4 @@ The dataset is analyzed to understand consumer behavior during Diwali sales. The
 **Preferred Product Categories:** Food, Clothing, and Electronics.
 
 This README provides an overview of the project structure, dependencies, and how to reproduce the analysis.
+

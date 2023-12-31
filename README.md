@@ -12,3 +12,19 @@ The dataset is analyzed to understand consumer behavior during Diwali sales. The
 
 This README provides an overview of the project structure, dependencies, and how to reproduce the analysis.
 
+## Tools and Skills used for Exploratory Data Analysis
+1. Jupyter Notebook
+2. Python Language
+3. NumpPy
+4. Pandas
+5. Matplotlib
+6. Seaborn
+
+## Anlysis Steps 
+1. Create a Problem Statement.
+2. Indentify the data for analysis.
+3. Explore and clean the Data.
+4. Analyzing the data to get useful insights.
+5. Present the data in terms of reports or dashboards using visualizations.
+
+## Thank You

@@ -38,6 +38,6 @@ This README provides an overview of the project structure, dependencies, and how
 ## Conclusion:
 - Emphasize marketing strategies for the primary audience.
 - Recognize the unique preferences of the 0-17 age group in specified sectors and regions.
-- Adjust product offerings, offers, and marketing to better align with this segment's preferences during Diwali sales.
-
+- Adjust product offerings, offers, and marketing to better align with this segment's preferences during Festive Period.
+- The findings highlight the significance of adjusting marketing plans to connect with the main audience and cater to their preferences. Moreover, it suggests adapting strategies to appeal not only to the primary audience but also to the secondary audience, addressing their unique preferences and needs.
 ## Thank You

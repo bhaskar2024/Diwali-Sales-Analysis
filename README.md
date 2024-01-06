@@ -35,7 +35,7 @@ This README provides an overview of the project structure, dependencies, and how
 4. Analyzing the data to get useful insights.
 5. Present the data in terms of reports or dashboards using visualizations.
 
-**Conclusion:**
+## Conclusion:
 - Emphasize marketing strategies for the primary audience.
 - Recognize the unique preferences of the 0-17 age group in specified sectors and regions.
 - Adjust product offerings, offers, and marketing to better align with this segment's preferences during Diwali sales.

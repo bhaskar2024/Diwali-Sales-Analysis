@@ -23,16 +23,16 @@ This README provides an overview of the project structure, dependencies, and how
 ## Tools and Skills used for Exploratory Data Analysis
 1. Jupyter Notebook
 2. Python Language
-3. NumpPy
+3. NumPy
 4. Pandas
 5. Matplotlib
 6. Seaborn
 
-## Anlysis Steps 
+## Anlaysis Steps 
 1. Create a Problem Statement.
-2. Indentify the data for analysis.
+2. Identify the data for analysis.
 3. Explore and clean the Data.
-4. Analyzing the data to get useful insights.
+4. Analysing the data to get useful insights.
 5. Present the data in terms of reports or dashboards using visualizations.
 
 ## Conclusion:

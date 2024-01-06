@@ -11,9 +11,9 @@ The dataset is analyzed to understand consumer behavior during Diwali sales. The
 **Preferred Product Categories:** Food, Clothing, and Electronics.
 
 **Secondary Target Segment:**
-. 0-17 age group, both male and female.
-. Occupations: Construction, Textile, and Agriculture.
-. Regions: Rajasthan, Punjab, and Telangana.
+(.)0-17 age group, both male and female.
+(.)Occupations: Construction, Textile, and Agriculture.
+(.)Regions: Rajasthan, Punjab, and Telangana.
 
 **Less Likely to Buy:**
 Products: Veterinary, Tupperware, and Hands & Power Tools.
